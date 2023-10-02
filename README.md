@@ -1,4 +1,3 @@
-"""
 # Función de Campana Gaussiana en Python
 
 Este es un simple programa en Python que calcula y grafica una función de campana gaussiana. 
@@ -33,5 +32,5 @@ Aquí tienes un ejemplo de cómo se ve el programa en acción:
 ## Contribuciones
 Siéntete libre de contribuir a este proyecto abriendo problemas (issues) o enviando solicitudes de extracción (pull requests) para mejoras o correcciones.
 
-## Contribuciones
-Siéntete libre de contribuir a este proyecto abriendo problemas (issues) o enviando solicitudes de extracción (pull requests) para mejoras o correcciones.
+## Licencia
+Este proyecto está bajo la Licencia MIT.
