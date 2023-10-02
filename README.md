@@ -14,9 +14,8 @@ Asegúrate de tener instalado Python en tu sistema. También necesitarás las si
 
 Puedes instalar estas bibliotecas ejecutando los siguientes comandos:
 
-```bash
-pip install numpy
-pip install matplotlib
+- pip install numpy
+- pip install matplotlib
 
 ## Uso
 1. Clona o descarga este repositorio en tu máquina.
